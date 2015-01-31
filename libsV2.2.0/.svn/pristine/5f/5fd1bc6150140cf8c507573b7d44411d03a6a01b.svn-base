@@ -1,0 +1,1 @@
+**本目录下存放的是androidannotations注入的相关使用demo**

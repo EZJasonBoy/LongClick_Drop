@@ -1,0 +1,36 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+       android:id="@+id/whole_layout"
+    
+    >
+
+<FrameLayout android:id="@+id/fragment"
+     android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+   
+ <org.bangbang.support.v4.widget.HListView
+                android:id="@+id/Scrollview"
+                android:layout_width="wrap_content"
+                android:layout_height="120dp"
+                 android:layout_marginRight="8dp"
+               />
+</FrameLayout>
+
+ <LinearLayout
+  
+     android:id="@+id/llayout"
+     android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#dcdcdc"
+    android:layout_below="@id/fragment"
+    >
+     <Button  android:layout_width="wrap_content"
+         android:text="bbbbbb"
+         android:id="@+id/bt1"
+    android:layout_height="wrap_content"/>
+     
+ </LinearLayout>
+
+</RelativeLayout>
