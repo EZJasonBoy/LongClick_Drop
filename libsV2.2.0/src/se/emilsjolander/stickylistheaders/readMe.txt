@@ -1,0 +1,1 @@
+******** 实现能够固定在屏幕顶部的ListView Section Header. 当前section的header固定在屏幕顶部，当滑动到其他section时，其他section的header会代替之前的section的header，固定到屏幕顶部。************

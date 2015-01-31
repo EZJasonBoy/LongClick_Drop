@@ -1,0 +1,1 @@
+*******viewpagerindicator---viewpager联动的tab点*************

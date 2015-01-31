@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error_only_numeric_digits_allowed">只允许输入数字</string>
+    <string name="error_this_field_cannot_contain_special_character">不允许输入任何特殊字符</string>
+    <string name="error_only_standard_letters_are_allowed">只允许输入标准字母</string>
+    <string name="error_field_must_not_be_empty">不允许为空</string>
+    <string name="error_email_address_not_valid">邮箱地址无效</string>
+    <string name="error_creditcard_number_not_valid">信用卡号码无效</string>
+    <string name="error_phone_not_valid">电话号码无效</string>
+    <string name="error_domain_not_valid">地域名无效</string>
+    <string name="error_ip_not_valid">地址无效</string>
+    <string name="error_url_not_valid">网址无效</string>
+    <string name="error_notvalid_personname">不是有效的姓或名</string>
+    <string name="error_notvalid_personfullname">不是有效的姓名</string>
+    <string name="error_date_not_valid">格式无效</string>
+    <string name="error_number_between">只允许输入%1$d至%2$d之内的数字</string>
+
+</resources>

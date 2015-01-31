@@ -1,0 +1,15 @@
+<resources>
+
+    <!-- android官方提倡的默认高度、UI元素之间的间距、字体大小  start -->
+    <dimen name="default_height">48dp</dimen>
+    <dimen name="default_spacing">8dp</dimen>
+    <!-- android官方提倡的默认高度、UI元素之间的间距、字体大小   end -->
+    <!-- 底部对话框 -->
+    <dimen name="TitleTextSize">14dp</dimen>
+    <dimen name="LargeTextSize">20dp</dimen>
+    <!-- 首页左右菜单相关start -->
+    <dimen name="slidingmenu_offset">100dp</dimen>
+    <dimen name="list_padding">10dp</dimen>
+    <dimen name="shadow_width">15dp</dimen>
+    <!-- 首页左右菜单相关end -->
+</resources>

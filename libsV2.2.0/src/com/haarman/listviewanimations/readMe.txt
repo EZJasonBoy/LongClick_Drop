@@ -1,0 +1,2 @@
+*******实现各种列表动画效果。包括卡片式列表（效果图1），Grid View列表（效果图2），列表item逐个淡入显示（效果图3），拖动列表item重新排序（效果图4），滑动删除列表item（效果图5），批量删除列表item（效果图6），展开列表item（效果图7）等等。 *************
+http://a.code4app.com/android/ListViewAnimations/526dfc8d6803fa8a62000000
